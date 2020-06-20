@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import moment from 'moment';
 
 import TimerHeader from '../../Components/TimerHeader/TimerHeader';
-import TimerDisplay from '../../Components/TImerDisplay/TimerDisplay'
+import TimerDisplay from '../../Components/TimerDisplay/TimerDisplay'
 import TimerButton from '../../Components/TimerButton/TimerButton';
 import TimerConfig from '../../Components/TimerConfig/TimerConfig';
 
